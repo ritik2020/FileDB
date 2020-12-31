@@ -1,7 +1,7 @@
 Follow the steps to get started:
 1) Clone this repo on your system.
 2) Write "npm install" to install all the required dependencies
-
+3) Run "node app.js" to execute the project.
 -------------------------------------------------------------------------------------------------------------------------------------
 How to use fileDB
 
